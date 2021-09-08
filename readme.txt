@@ -1,1 +1,1 @@
-A basic product page mockup utilizing Vue foundations.
+A basic product page mockup utilizing Vue.js foundations.
